@@ -1,6 +1,6 @@
 ---
 layout: default
-img: bg-showcase1.jpg
+img: bg-showcase-1.jpg
 category: Services
 title: Reach further
 description: |

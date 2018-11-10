@@ -2,7 +2,7 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: REACH FURTHER
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  We dive into the detail of what your customers are saying to deliver insights that grow your brand’s engagement.  We monitor and distil user demographics, user behaviours and user trends so you can take your marketing spend further.

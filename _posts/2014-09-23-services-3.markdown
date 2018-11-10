@@ -1,6 +1,6 @@
 ---
 layout: default
-img: phones.png
+img: bg-showcase-3.jpg
 category: Services
 title: Psychography unleashed
 description: |

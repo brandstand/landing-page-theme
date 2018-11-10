@@ -2,7 +2,7 @@
 layout: default
 img: phones.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Psychography unleashed
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+Words matter.  We use AI to map out a multidimensional network of words and ideas that are important to your business.  Explore how these words and ideas scale through complex subconscious associations. 

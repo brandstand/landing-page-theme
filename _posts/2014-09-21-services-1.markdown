@@ -5,4 +5,6 @@ category: Services
 title: Anticipate
 description: |
 ---
-Words matter.  We use AI to map out a multidimensional network of words and ideas that are important to your business.  Explore how your marketing messages scale through complex subconscious associations. Expect the unexpected.
+Words matter.  We use AI to map out a multidimensional network of words and ideas that are important to your business.  Explore how your marketing messages scale through complex subconscious associations. 
+
+Expect the unexpected.

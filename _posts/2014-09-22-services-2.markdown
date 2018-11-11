@@ -2,7 +2,7 @@
 layout: default
 img: bg-showcase-2.jpg
 category: Services
-title: Reach your audience
+title: Communicate
 description: |
 ---
   Reach out to your customers with the confidence that you’re speaking their language.  Our neural network technology assesses your proposed marketing content and provides suggestions based on your customers’ social media habits.

@@ -2,7 +2,7 @@
 layout: default
 img: bg-showcase-3.jpg
 category: Services
-title: Psychography unleashed
+title: Understand better 
 description: |
 ---
-Words matter.  We use AI to map out a multidimensional network of words and ideas that are important to your business.  Explore how these words and ideas scale through complex subconscious associations. 
+Build custom feature extractors which can analyse text looking for subtle characteristics like sentiment, interests, and demographic information. 

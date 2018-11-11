@@ -5,4 +5,6 @@ category: Services
 title: Understand 
 description: |
 ---
-Build custom feature extractors which can analyse text looking for subtle characteristics like sentiment, interests, and demographic information. Understand your customers better through AI. 
+Build custom feature extractors which can analyse text looking for subtle characteristics like sentiment, interests, and demographic information. 
+
+Understand your customers better through AI. 

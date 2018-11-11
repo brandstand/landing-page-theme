@@ -1,8 +1,8 @@
 ---
 layout: default
-img: bg-showcase-1.jpg
+img: bg-showcase-3.jpg
 category: Services
-title: See further
+title: Psychography unleashed
 description: |
 ---
-  We dive into the detail of what your customers are saying to deliver insights that grow your brand’s engagement.  We monitor and distil user demographics, user behaviours and user trends so you can take your marketing spend further.
+Words matter.  We use AI to map out a multidimensional network of words and ideas that are important to your business.  Explore how these words and ideas scale through complex subconscious associations. 

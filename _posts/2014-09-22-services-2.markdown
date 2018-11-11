@@ -5,4 +5,6 @@ category: Services
 title: Communicate
 description: |
 ---
-  Reach out to your customers with the confidence that you’re speaking their language.  Our neural network technology assesses your proposed marketing content and provides suggestions based on your customers’ social media habits.
+  Reach out to your customers with the confidence that you’re being understood.  Our neural network technology assesses your proposed marketing content and provides style suggestions based on trends and customer social media habits.
+  
+  Speak their language.
